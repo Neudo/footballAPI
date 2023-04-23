@@ -3,15 +3,12 @@
     <ion-content :fullscreen="true">
       <div id="container">
         <h2>Liste des ligues</h2>
-
         <ul>
           <li><a href="/leagueinfos/4334">Ligue 1</a></li>
           <li><a href="/leagueinfos/4401">Ligue 2</a></li>
           <li><a href="/leagueinfos/4484">Coupe de France</a></li>
           <li><a href="/leagueinfos/4480">Champion's league</a></li>
         </ul>
-
-
       </div>
     </ion-content>
   </ion-page>
